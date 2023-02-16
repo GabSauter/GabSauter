@@ -9,7 +9,7 @@
 
 #### *Currently looking for android development jobs* 
 - Android development enthusiast.
-- A second year student at Federal Technological University of Paraná [(UTFPR)](http://www.utfpr.edu.br/campus/pontagrossa),
+- A third year student at Federal Technological University of Paraná [(UTFPR)](http://www.utfpr.edu.br/campus/pontagrossa),
 - Completing my BSc. degree in Computer Science.
 
 #### Skills

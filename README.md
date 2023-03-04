@@ -1,4 +1,4 @@
-<h3 align="center">Hello!</h3>
+<h3 align="center">Hi!</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gabrielsauter/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

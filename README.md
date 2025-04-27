@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi!
 
 #### 🎯 *Open to Android Development Opportunities*  
 I'm an Android development enthusiast passionate about building modern, performant, and intuitive mobile apps. Currently diving deep into Kotlin Multiplatform (KMP) and Jetpack Compose to create seamless cross-platform experiences.

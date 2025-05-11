@@ -1,7 +1,7 @@
 # 👋 Hi!
 
-#### 🎯 *Open to Android Development Opportunities*  
-I'm an Android development enthusiast passionate about building modern, performant, and intuitive mobile apps. Currently diving deep into Kotlin Multiplatform (KMP) and Jetpack Compose to create seamless cross-platform experiences.
+#### 🎯 *Mobile Developer*  
+I'm a Mobile development enthusiast passionate about building modern, performant, and intuitive mobile apps.
 
 🎓 I hold a **Bachelor’s degree in Computer Science** from the [Federal Technological University of Paraná (UTFPR)](http://www.utfpr.edu.br/campus/pontagrossa).
 
